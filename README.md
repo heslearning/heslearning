@@ -1,6 +1,6 @@
-# 👋 Hi, I’m @heslearning
+# 👋 Hi, I’m @DavlatovOybek actually
 
-Welcome to my GitHub profile! I'm a curious and motivated learner currently exploring the world of tech, development, and cloud platforms.
+Welcome to my GitHub Learning profile! I'm a curious and motivated learner currently exploring the world of tech, development, and cloud platforms.
 
 ## 👀 I’m interested in:
 - Salesforce Development (Apex, Lightning, Flows)
