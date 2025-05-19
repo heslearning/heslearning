@@ -22,7 +22,7 @@ Welcome to my GitHub Learning profile! I'm a curious and motivated learner curre
 ## 📫 How to reach me:
 - Email: `yourname@email.com`
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [@heslearning](https://github.com/heslearning)
+- GitHub: [@DavlatovO](https://github.com/DavlatovO)
 
 ## 😄 Pronouns:
 He/Him
