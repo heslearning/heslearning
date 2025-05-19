@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @DavlatovOybek actually
+# 👋 Hi, I’m @DavlatovO actually
 
 Welcome to my GitHub Learning profile! I'm a curious and motivated learner currently exploring the world of tech, development, and cloud platforms.
 
